@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahathi-bodela-130b5b269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.leetcode.com/mahathibodela7"><img src="https://img.shields.io/badge/-LeetCode-77cf4?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
-  <a href="https://github.com/mahathibodela"><img src="https://img.shields.io/badge/My Portfolio-ffcc00?style=for-the-badge&logo=googleearth&logoColor=white"></a>
+  <a href="https://mahathibodela.github.io/"><img src="https://img.shields.io/badge/My Portfolio-ffcc00?style=for-the-badge&logo=googleearth&logoColor=white"></a>
 </p>
 <br>
 
