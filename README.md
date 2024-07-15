@@ -1,4 +1,4 @@
-# Hi there, I'm Ipsit Das but you can call me icode100👋
+# Hi there, I'm Bodela Mahathi👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahathi-bodela-130b5b269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
